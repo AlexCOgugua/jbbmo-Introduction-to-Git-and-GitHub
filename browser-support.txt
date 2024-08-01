@@ -1,0 +1,3 @@
+browser-support.txt
+
+Firefox, Chrome, Safari, Microsoft Edge
